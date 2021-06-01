@@ -1,0 +1,14 @@
+.parser-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 20vw;
+}
+.process,
+.copy-to-clipboard {
+  margin: 5vh 20vw;
+  padding: 2vh 1vw;
+  border-radius: 2em;
+  border-width: 0.2em;
+  border-style: solid;
+}
