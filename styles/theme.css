@@ -1,4 +1,6 @@
-body {
-    background-color: #222;
-    color: #d5d5d5;
+@media screen and (prefers-color-scheme: dark) {
+    body {
+        background-color: #222;
+        color: #d5d5d5;
+    }
 }
